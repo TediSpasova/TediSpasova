@@ -1,0 +1,5 @@
+git status
+git add {MY_FILE or MY_FOLDER}
+git commit -m "{DESCRIPTIVE MESSAGE}"
+git push origin/master
+git log
